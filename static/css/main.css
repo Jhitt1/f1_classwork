@@ -1,0 +1,15 @@
+#resultdata {
+    margin-top: 5rem;
+    padding: 2rem, 3rem, 2rem, 3rem;
+    font-size: 2rem
+}
+
+body {
+    background: url(../images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table {
+    color: rgb(252, 4, 4);
+}
